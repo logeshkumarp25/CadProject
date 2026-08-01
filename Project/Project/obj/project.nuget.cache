@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCW5TcJVIRY=",
+  "success": true,
+  "projectFilePath": "D:\\logesh\\C#\\Project\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LogeshKumar\\.nuget\\packages\\netdxf\\2023.11.10\\netdxf.2023.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
